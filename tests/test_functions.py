@@ -1,4 +1,5 @@
 #!/bin/python
+from types import tipe
 
 @tipe(int)
 def single_integer(x):
