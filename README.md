@@ -1,2 +1,11 @@
 # TIPE: Python type checking decorators
-### Type checking Inside Python Everything (but only function arguments)
+#### [T]ype checking [I]nside [P]ython [E]verything (but only function arguments)
+
+## Usage
+```
+@tipe(int,int)
+def add(x,y):
+    return x+y
+```
+
+
